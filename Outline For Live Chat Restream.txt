@@ -86,4 +86,4 @@ body *{
 .input,
 .badges{
   display:none !important;
-}
+} 
