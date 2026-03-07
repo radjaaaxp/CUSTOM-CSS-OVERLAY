@@ -1,0 +1,24 @@
+/* background transparan */
+body{
+  background: transparent !important;
+}
+
+/* warna teks normal (pesan) */
+body, div, span, p{
+  color: #ffffff !important; 
+}
+
+/* warna top donatur */
+b:first-child, strong:first-child{
+  color: #00e5ff !important; /* biru */
+}
+
+
+/* outline hitam agar terbaca di stream */
+*{
+  text-shadow:
+  -2px -2px 0 #000,
+   2px -2px 0 #000,
+  -2px  2px 0 #000,
+   2px  2px 0 #000 !important;
+}
