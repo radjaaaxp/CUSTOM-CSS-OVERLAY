@@ -3,14 +3,15 @@ body{
   background: transparent !important;
 }
 
-/* warna teks normal (pesan) */
-body, div, span, p{
-  color: #ffffff !important; 
+/* warna semua teks normal */
+body, body *{
+  color: #ffffff !important;
 }
 
-/* warna NAMA donatur */
-b:first-child, strong:first-child{
-  color: #00e5ff !important; /* biru */
+/* warna top donatur */
+b:first-child,
+strong:first-child{
+  color: #5555ff !important; /* biru */
 }
 
 
