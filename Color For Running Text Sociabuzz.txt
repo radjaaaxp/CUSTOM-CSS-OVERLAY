@@ -8,7 +8,7 @@ body, body *{
   color: #ffffff !important;
 }
 
-/* warna top donatur */
+/* warna dibagian top donatur */
 b:first-child,
 strong:first-child{
   color: #5555ff !important; /* biru */
